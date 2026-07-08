@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Mohamed Farook S ! 👋
 
 I am a first-year B.Tech Software Engineering student at AMET University. I focus on building practical applications, exploring cloud-powered AI, and mastering software development workflows.
 
