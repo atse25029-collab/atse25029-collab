@@ -37,6 +37,6 @@ An AI-driven financial assistant built leveraging Amazon Bedrock for responsive 
 ### 🐙 Learn Git Fundamentals
 A repository dedicated to deeply understanding version control architecture, branch isolation strategies, and repository synchronization.
 * **Core Skills:** Collaborative Git workflows, conflict management, and atomic commits.
-* **LinkedIn Post:** [View Project on LinkedIn]()
+* **LinkedIn Post:** [View Project on LinkedIn](https://www.linkedin.com/posts/mohamed-farook-s-9186753b9_git-github-versioncontrol-share-7480662252967178241-NfI3/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAGYUdeQBJD1lpjap6BVsovDABpA7lZmj4wg&utm_campaign=copy_link)
 
 ---
