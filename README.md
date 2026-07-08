@@ -7,7 +7,7 @@ I am a first-year B.Tech Software Engineering student at AMET University. I focu
 ## 🚀 About Me
 - 🎓 **Education:** Pursuing a B.Tech in Software Engineering at AMET University
 - 💡 **Core Focus:** Software Development, Artificial Intelligence, and Version Control
-- 💼 **LinkedIn:** (https://www.linkedin.com/in/mohamed-farook-s-9186753b9?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 💼 **LinkedIn:** [Click Here](https://www.linkedin.com/in/mohamed-farook-s-9186753b9?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
